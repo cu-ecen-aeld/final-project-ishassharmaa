@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ECEN 5713 FINAL PROJECT
 This repository contains the final project code and environment 
 
