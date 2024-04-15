@@ -74,12 +74,7 @@
 #include <sys/utsname.h>
 #include <linux/gpio.h>
 
-#include "softPwm.h"
-#include "softTone.h"
-
 #include "wiringPi.h"
-#include "../version.h"
-#include "wiringPiLegacy.h"
 
 // Environment Variables
 
