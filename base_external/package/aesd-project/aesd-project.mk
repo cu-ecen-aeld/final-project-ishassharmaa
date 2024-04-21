@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your aesd project git contents
-AESD_PROJECT_VERSION = a454a79d96efe9293f5ab73cae8d08ceb2961fbb
+AESD_PROJECT_VERSION = 1e061cbf0929e4b76592f3849da7047aef45fbb2
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
