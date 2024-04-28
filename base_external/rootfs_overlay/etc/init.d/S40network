@@ -10,6 +10,9 @@ modprobe brcmfmac
 case "$1" in
   start)
 	printf "Starting network: "
+	ifup wlan0
+	modprobe i2c-bcm2708  
+	modprobe i2c-dev
 	/sbin/ifup -a
 	[ $? = 0 ] && echo "OK" || echo "FAIL"
 	;;
